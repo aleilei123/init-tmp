@@ -1,6 +1,6 @@
 
-const versionDate = `20190719`;
+const versionDate = `{{versionDate}}`;
 
-var preUrl = `asd/${versionDate}`
+var preUrl = `{{projectName}}/${versionDate}`
 
 
